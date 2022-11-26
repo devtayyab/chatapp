@@ -158,10 +158,10 @@ userRoutes.js
 
 ## Contributors
 
-- Vaibhav Dhiman <vaibhav.dhiman.my@gmail.com>
-
+-Muhammad Tayyab <m.tayyab.gcuf@gmail.com>  
+-devtayyab
 ---
 
 ## License & copyright
 
-©️ Vaibhav Dhiman
+©️ Tayyab
